@@ -22,7 +22,7 @@ a{
 .header-content, .main-content{
     max-width: 600px;
     margin: 0 auto;
-    padding: 0  20px;
+    padding: 10px  20px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,7 +46,7 @@ nav a:hover {
 
 /*home css*/
 #home{
-    padding:2% 0;
+    padding:20% 0;
 }
 
 .profile info{
